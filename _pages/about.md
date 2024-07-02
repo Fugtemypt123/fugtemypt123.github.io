@@ -77,6 +77,6 @@ Experiences
 Awards
 ======
 
-* 2023: Fenjiu Commercial Group Scholarship 🍹
+* 2023: Fenjiu🍹 Commercial Group Scholarship 
 * 2023: Academic Excellence Award of Peking University
 * 2020: First Prize of National Olympiad in Informatics, Beijing Municipality
