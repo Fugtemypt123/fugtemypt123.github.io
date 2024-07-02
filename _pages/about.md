@@ -47,11 +47,11 @@ Experiences
       <img src="https://fugtemypt123.github.io/images/Zhilogo.jpg" alt="Zhi Logo" style="width:100px;">
     </td>
     <td style="border: none; padding: 10px;">
-      <strong><a href="#https://www.cis.pku.edu.cn/rcpy/zbpy.htm">Zhi Class</a></strong><br>
+      <strong><a href="https://www.cis.pku.edu.cn/rcpy/zbpy.htm">Zhi Class</a></strong><br>
       <em>2022.09 - Present</em><br>
       <strong>Undergraduate Student & Research Intern</strong><br>
-      Research Advisor: <a href="#http://www.csyangliu.com/">Prof. Yang Liu</a><br>
-      Academic Advisor: <a href="#https://baoquanchen.info/">Prof. Baoquan Chen</a>
+      Research Advisor: <a href="http://www.csyangliu.com/">Prof. Yang Liu</a><br>
+      Academic Advisor: <a href="https://baoquanchen.info/">Prof. Baoquan Chen</a>
     </td>
   </tr>
   <tr style="border: none;">
@@ -59,7 +59,7 @@ Experiences
       <img src="https://fugtemypt123.github.io/images/PKU.png" alt="PKU Logo" style="width:100px;">
     </td>
     <td style="border: none; padding: 10px;">
-      <strong><a href="#https://english.pku.edu.cn/">Peking University</a></strong><br>
+      <strong><a href="https://english.pku.edu.cn/">Peking University</a></strong><br>
       <em>2022.09 - Present</em><br>
       <strong>Undergraduate Student</strong>
     </td>
@@ -69,8 +69,8 @@ Experiences
       <img src="https://fugtemypt123.github.io/images/sakura.png" alt="Sakura Logo" style="width:100px;">
     </td>
     <td style="border: none; padding: 10px;">
-      <strong><a href="#https://ssp.jst.go.jp/en/">SAKURA SCIENCE Exchange Program</a></strong><br>
-      <em>Administered by <a href="#https://www.jst.go.jp/EN/">JST</a></em><br>
+      <strong><a href="https://ssp.jst.go.jp/en/">SAKURA SCIENCE Exchange Program</a></strong><br>
+      <em>Administered by <a href="https://www.jst.go.jp/EN/">JST</a></em><br>
       <em>2019.07</em><br>
       <strong>Exchange Student</strong>
     </td>
