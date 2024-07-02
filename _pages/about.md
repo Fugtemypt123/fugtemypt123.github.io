@@ -51,11 +51,11 @@ Experience
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 10px;">
-      <img src="https://via.placeholder.com/100x100.png?text=PKU" alt="PKU Logo" style="width:100px;">
+      <img src="https://fugtemypt123.github.io/images/PKU.png" alt="PKU Logo" style="width:100px;">
     </td>
     <td style="border: none; padding: 10px;">
       <strong>Peking University (PKU)</strong><br>
-      <em>2019.09 - 2023.7</em><br>
+      <em>2022.09 - Present/em><br>
       <strong>Undergraduate Student, <a href="#">Turing Class</a></strong>
     </td>
   </tr>
