@@ -61,12 +61,12 @@ Experience
   </tr>
   <tr style="border: none;">
     <td style="border: none; padding: 10px;">
-      <img src="https://fugtemypt123.github.io/images/PKU.png" alt="PKU Logo" style="width:100px;">
+      <img src="https://fugtemypt123.github.io/images/sakura.png" alt="Sakura Logo" style="width:100px;">
     </td>
     <td style="border: none; padding: 10px;">
-      <strong><a href="#https://english.pku.edu.cn/">Peking University</a></strong><br>
-      <em>2022.09 - Present</em><br>
-      <strong>Undergraduate Student</strong>
+      <strong><a href="#https://ssp.jst.go.jp/en/">Sakura Science Exchange Program</a></strong><br>
+      <em>2019.07</em><br>
+      <strong>Exchange Student</strong>
     </td>
   </tr>
 </table>
