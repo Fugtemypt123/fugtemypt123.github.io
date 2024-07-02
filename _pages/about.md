@@ -39,11 +39,11 @@ Experience
 <table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td style="border: none; padding: 10px;">
-      <img src="https://via.placeholder.com/100x100.png?text=BIGAI" alt="BIGAI Logo" style="width:100px;">
+      <img src="https://fugtemypt123.github.io/images/PKU.png" alt="BIGAI Logo" style="width:100px;">
     </td>
     <td style="border: none; padding: 10px;">
       <strong>Beijing Institute for General Artificial Intelligence (BIGAI)</strong><br>
-      <em>2021.12 - 2022.6</em><br>
+      <em>2022.09 - Present</em><br>
       <strong>Research Intern</strong><br>
       Research Advisor: <a href="#">Baoxiong Jia</a><br>
       Academic Advisor: Prof. <a href="#">Song-Chun Zhu</a>
@@ -55,7 +55,7 @@ Experience
     </td>
     <td style="border: none; padding: 10px;">
       <strong>Peking University (PKU)</strong><br>
-      <em>2022.09 - Present/em><br>
+      <em>2022.09 - Present</em><br>
       <strong>Undergraduate Student, <a href="#">Turing Class</a></strong>
     </td>
   </tr>
