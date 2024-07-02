@@ -30,7 +30,6 @@ Publications
 Ting Lei, **Shaofeng Yin**, Yang Liu†  
 paper / code (**Coming soon!**)  
 *European Conference on Computer Vision (**ECCV**) 2024*
-<br>
 
 **Exploring the Potential of Large Foundation Models for Open-Vocabulary HOI Detection**  
 Ting Lei, **Shaofeng Yin**, Yang Liu†  
