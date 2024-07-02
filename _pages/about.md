@@ -44,7 +44,7 @@ Experiences
 <table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td style="border: none; padding: 10px;">
-      <img src="https://fugtemypt123.github.io/images/Zhilogo.jpg" alt="Zhi Logo" style="width:100px;">
+      <img src="https://fugtemypt123.github.io/images/Zhilogo.jpg" alt="Zhi Logo" style="width:105px;">
     </td>
     <td style="border: none; padding: 10px;">
       <strong><a href="https://www.cis.pku.edu.cn/rcpy/zbpy.htm">Zhi Class</a></strong><br>
