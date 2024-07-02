@@ -39,14 +39,14 @@ Experience
 <table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td style="border: none; padding: 10px;">
-      <img src="https://fugtemypt123.github.io/images/PKU.png" alt="BIGAI Logo" style="width:100px;">
+      <img src="https://fugtemypt123.github.io/images/Zhilogo.jpg" alt="Zhi Logo" style="width:100px;">
     </td>
     <td style="border: none; padding: 10px;">
-      <strong>Beijing Institute for General Artificial Intelligence (BIGAI)</strong><br>
+      <strong><a href="#https://www.cis.pku.edu.cn/rcpy/zbpy.htm">Zhi Class</a></strong><br>
       <em>2022.09 - Present</em><br>
-      <strong>Research Intern</strong><br>
-      Research Advisor: <a href="#">Baoxiong Jia</a><br>
-      Academic Advisor: Prof. <a href="#">Song-Chun Zhu</a>
+      <strong>Undergraduate Student & Research Intern</strong><br>
+      Research Advisor: <a href="#http://www.csyangliu.com/">Prof. Yang Liu</a><br>
+      Academic Advisor: <a href="#https://baoquanchen.info/">Prof. Baoquan Chen</a>
     </td>
   </tr>
   <tr style="border: none;">
@@ -54,9 +54,19 @@ Experience
       <img src="https://fugtemypt123.github.io/images/PKU.png" alt="PKU Logo" style="width:100px;">
     </td>
     <td style="border: none; padding: 10px;">
-      <strong>Peking University (PKU)</strong><br>
+      <strong><a href="#https://english.pku.edu.cn/">Peking University</a></strong><br>
       <em>2022.09 - Present</em><br>
-      <strong>Undergraduate Student, <a href="#">Turing Class</a></strong>
+      <strong>Undergraduate Student</strong>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 10px;">
+      <img src="https://fugtemypt123.github.io/images/PKU.png" alt="PKU Logo" style="width:100px;">
+    </td>
+    <td style="border: none; padding: 10px;">
+      <strong><a href="#https://english.pku.edu.cn/">Peking University</a></strong><br>
+      <em>2022.09 - Present</em><br>
+      <strong>Undergraduate Student</strong>
     </td>
   </tr>
 </table>
