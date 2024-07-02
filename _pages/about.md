@@ -26,10 +26,16 @@ News
 Publications
 ======
 
+**Exploring Conditional Multi-Modal Prompts for Zero-shot HOI Detection**  
+Ting Lei, **Shaofeng Yin**, Yang Liu†  
+paper / code (**Coming soon!**)  
+*European Conference on Computer Vision (**ECCV**) 2024*
+<br>
+
 **Exploring the Potential of Large Foundation Models for Open-Vocabulary HOI Detection**  
 Ting Lei, **Shaofeng Yin**, Yang Liu†  
 [paper](https://arxiv.org/abs/2404.06194) / [code](https://github.com/ltttpku/CMD-SE-release)    
-*IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024*
+*IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) 2024*
 
 <br>
 
