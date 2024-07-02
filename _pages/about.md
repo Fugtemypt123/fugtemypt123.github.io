@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: Shaofeng Yin / Personal Homepage
 author_profile: true
 redirect_from: 
   - /about/
