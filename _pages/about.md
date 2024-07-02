@@ -12,7 +12,6 @@ I am a second-year undergraduate student at [Yuanpei College (YPC)](https://yuan
 I am honored to be advised by [Prof. Yang Liu](http://www.csyangliu.com/) in [Wangxuan Institute of Computer Technology, Peking University](https://www.icst.pku.edu.cn/index.htm). My research interests are broadly in **Computer Vision** and **Multi-Modal Learning**. Currently, I have done some work on human-object interaction detection (HOID) and multimodal tool usage.
 
 In addition to research, I am also an amateur enthusiast of algorithm competitions and have a <span style="color:orange">master</span> title on [codeforces](https://codeforces.com/profile/Fugtemypt).
-
 <br>
 
 News
@@ -20,7 +19,6 @@ News
 
 * [2024/07] 🎉 One paper gets accepted to ECCV 2024!
 * [2024/02] 🎉 One paper gets accepted to CVPR 2024!
-
 <br>
 
 Publications
@@ -30,7 +28,6 @@ Publications
 Ting Lei, **Shaofeng Yin**, Yang Liu†  
 [paper](https://arxiv.org/abs/2404.06194) / [code](https://github.com/ltttpku/CMD-SE-release)    
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024*
-
 <br>
 
 Experience
@@ -64,10 +61,14 @@ Experience
       <img src="https://fugtemypt123.github.io/images/sakura.png" alt="Sakura Logo" style="width:100px;">
     </td>
     <td style="border: none; padding: 10px;">
-      <strong><a href="#https://ssp.jst.go.jp/en/">Sakura Science Exchange Program</a></strong><br>
+      <strong><a href="#https://ssp.jst.go.jp/en/">SAKURA SCIENCE Exchange Program</a></strong><br>
+      <em>Administered by <a href="#https://www.jst.go.jp/EN/">JST</a></em><br>
       <em>2019.07</em><br>
       <strong>Exchange Student</strong>
     </td>
   </tr>
 </table>
+<be>
 
+Services
+======
