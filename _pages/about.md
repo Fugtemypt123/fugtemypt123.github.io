@@ -17,6 +17,6 @@ In addition to research, I am also an amateur enthusiast of algorithm competitio
 News
 ======
 
-* [2024/07] 🎉 One paper gets accepted to **ECCV 2024**!
-* [2024/02] 🎉 One paper gets accepted to **CVPR 2024**!
+* [2024/07] 🎉 One paper gets accepted to ECCV 2024!
+* [2024/02] 🎉 One paper gets accepted to CVPR 2024!
 
