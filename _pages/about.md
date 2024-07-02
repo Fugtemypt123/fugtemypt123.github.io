@@ -13,12 +13,15 @@ I am honored to be advised by [Prof. Yang Liu](http://www.csyangliu.com/) in [Wa
 
 In addition to research, I am also an amateur enthusiast of algorithm competitions and have a <span style="color:orange">master</span> title on [codeforces](https://codeforces.com/profile/Fugtemypt).
 
+<br>
 
 News
 ======
 
 * [2024/07] 🎉 One paper gets accepted to ECCV 2024!
 * [2024/02] 🎉 One paper gets accepted to CVPR 2024!
+
+<br>
 
 Publications
 ======
@@ -27,6 +30,8 @@ Publications
 Ting Lei, **Shaofeng Yin**, Yang Liu†  
 [paper](https://arxiv.org/abs/2404.06194) / [code](https://github.com/ltttpku/CMD-SE-release)    
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024*
+
+<br>
 
 Experience
 ======
