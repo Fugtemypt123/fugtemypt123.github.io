@@ -11,7 +11,7 @@ I am a second-year undergraduate student at [Yuanpei College (YPC)](https://yuan
 
 I am honored to be advised by [Prof. Yang Liu](http://www.csyangliu.com/) in [Wangxuan Institute of Computer Technology, Peking University](https://www.icst.pku.edu.cn/index.htm). My research interests are broadly in **Computer Vision** and **Multi-Modal Learning**. Currently, I have done some work on human-object interaction detection (HOID) and multimodal tool usage.
 
-Besides research, I am also an amateur enthusiast of algorithm competitions and have a <span style="color:orange">master</span> title on [codeforces](https://codeforces.com/profile/Fugtemypt).
+Besides research, I am also an amateur enthusiast of algorithm competitions and have a <span style="color:orange">Master</span> title on [Codeforces](https://codeforces.com/profile/Fugtemypt).
 
 
 News
