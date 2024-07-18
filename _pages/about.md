@@ -25,7 +25,7 @@ Publications
 ======
 
 * **Exploring Conditional Multi-Modal Prompts for Zero-shot HOI Detection**  
-Ting Lei, **Shaofeng Yin**, Yang Liu†  
+Ting Lei, **Shaofeng Yin**, Yuxin Peng, Yang Liu†  
 paper / code (**Coming soon!**)  
 *European Conference on Computer Vision (**ECCV**) 2024*
 
