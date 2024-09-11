@@ -26,7 +26,7 @@ Publications
 
 * **Exploring Conditional Multi-Modal Prompts for Zero-shot HOI Detection**  
 Ting Lei, **Shaofeng Yin**, Yuxin Peng, Yang Liu†  
-[paper](https://arxiv.org/abs/2408.02484) / [code](https://github.com/ltttpku/CMMP)
+[paper](https://arxiv.org/abs/2408.02484) / [code](https://github.com/ltttpku/CMMP)    
 *European Conference on Computer Vision (**ECCV**) 2024*
 
 * **Exploring the Potential of Large Foundation Models for Open-Vocabulary HOI Detection**  
