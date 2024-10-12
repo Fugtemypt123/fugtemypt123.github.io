@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year undergraduate student at [Yuanpei College (YPC)](https://yuanpei.pku.edu.cn/) of [Peking University](https://english.pku.edu.cn/), also a sophomore in [Zhi Class](https://www.cis.pku.edu.cn/rcpy/zbpy.htm). I major in Artificial Intelligence, with GPA ranking **top 5%**.
+I am a third-year undergraduate student at [Yuanpei College (YPC)](https://yuanpei.pku.edu.cn/) of [Peking University](https://english.pku.edu.cn/), also a sophomore in [Zhi Class](https://www.cis.pku.edu.cn/rcpy/zbpy.htm). I major in Artificial Intelligence, with GPA ranking **top 5%**.
 
 I am honored to be advised by Prof. [Yang Liu](http://www.csyangliu.com/) in [Wangxuan Institute of Computer Technology, Peking University](https://www.icst.pku.edu.cn/index.htm), and to collaborate with the great senior [Ting Lei](https://ltttpku.github.io/). My research interests are broadly in **Computer Vision** and **Multi-Modal Learning**. Currently, I have done some work on human-object interaction detection (HOID) and multimodal tool usage. My research ideal is to develop intelligent technologies that adapt to real-world scenarios, and through a sound open source community, enable every member of society to realize their life dreams through AI.
 
