@@ -80,6 +80,8 @@ Experiences
 Awards
 ======
 
+* 2024: **National Scholarship** (Highest honor for undergraduates)
+* 2024: Merit Student of Peking University
 * 2023: Fenjiu🍹 Commercial Group Scholarship 
 * 2023: Academic Excellence Award of Peking University
 * 2020: First Prize of National Olympiad in Informatics, Beijing Municipality
