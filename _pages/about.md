@@ -43,14 +43,24 @@ Experiences
 <table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td style="border: none; padding: 10px;">
-      <img src="https://fugtemypt123.github.io/images/Zhilogo.jpg" alt="Zhi Logo" style="width:105px;">
+      <img src="https://fugtemypt123.github.io/images/BAIR_Logo.png" alt="BAIR Logo" style="width:105px;">
     </td>
     <td style="border: none; padding: 10px;">
-      <strong><a href="https://www.cis.pku.edu.cn/rcpy/zbpy.htm">Zhi Class</a></strong><br>
-      <em>2022.09 - Present</em><br>
-      <strong>Undergraduate Student & Research Intern</strong><br>
-      Research Advisor: Prof. <a href="http://www.csyangliu.com/">Yang Liu</a><br>
-      Academic Advisor: Prof. <a href="https://baoquanchen.info/">Baoquan Chen</a>
+      <strong><a href="https://bair.berkeley.edu/">Berkeley AI Research</a></strong><br>
+      <em>2025.01 - Present</em><br>
+      <strong>Research Intern</strong><br>
+      Research Advisor: <a href="https://jiaxin.ge/">Jiaxin Ge</a><br>
+      Academic Advisor:  <a href="https://people.eecs.berkeley.edu/~trevor/">Trevor Darrell</a>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 10px;">
+      <img src="https://fugtemypt123.github.io/images/Seal_of_University_of_California,_Berkeley.svg.png" alt="Berkeley Logo" style="width:105px;">
+    </td>
+    <td style="border: none; padding: 10px;">
+      <strong><a href="https://www.berkeley.edu/">University of California, Berkeley</a></strong><br>
+      <em>2025.01 - Present</em><br>
+      <strong>Exchange Student</strong><br>
     </td>
   </tr>
   <tr style="border: none;">
@@ -60,7 +70,9 @@ Experiences
     <td style="border: none; padding: 10px;">
       <strong><a href="https://english.pku.edu.cn/">Peking University</a></strong><br>
       <em>2022.09 - Present</em><br>
-      <strong>Undergraduate Student</strong>
+      <strong>Undergraduate Student & Research Intern</strong><br>
+      Research Advisor: <a href="http://www.csyangliu.com/">Yang Liu</a><br>
+      Academic Advisor: <a href="https://baoquanchen.info/">Baoquan Chen</a>
     </td>
   </tr>
   <tr style="border: none;">
