@@ -11,7 +11,7 @@ I am a third-year undergraduate student at [Yuanpei College (YPC)](https://yuanp
 
 I am honored to be advised by Prof. [Yang Liu](http://www.csyangliu.com/) in [Wangxuan Institute of Computer Technology, Peking University](https://www.icst.pku.edu.cn/index.htm), and to collaborate with the great senior [Ting Lei](https://ltttpku.github.io/). My research interests are broadly in **Computer Vision** and **Multi-Modal Learning**. Currently, I have done some work on human-object interaction detection (HOID) and multimodal tool usage. 
 
-My research goal is to develop intelligent agents that adapt to real-world scenarios, improving their **generalizability** and **reasoning ability**.
+My research goal is to develop intelligent agents that adapt to real-world scenarios, improving their **generalizability**.
 
 Besides research, I am also an amateur enthusiast of algorithm competitions and have a <span style="color:orange">Master</span> title on [Codeforces](https://codeforces.com/profile/Fugtemypt).
 
