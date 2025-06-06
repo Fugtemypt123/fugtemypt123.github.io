@@ -13,7 +13,7 @@ I am honored to be advised by Prof. [Yang Liu](http://www.csyangliu.com/) in [Wa
 
 My research goal is to develop intelligent agents that adapt to real-world scenarios, improving their **generalizability**.
 
-Besides research, I am also an amateur enthusiast of algorithm competitions and have a <span style="color:orange">Master</span> title on [Codeforces](https://codeforces.com/profile/Fugtemypt).
+Besides research, I am also an amateur enthusiast of algorithm competitions and have a <span style="color:orange">Master</span> title on [Codeforces](https://codeforces.com/profile/Fugtemypt) (in high school).
 
 
 News
